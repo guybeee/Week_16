@@ -1,0 +1,31 @@
+.navbar {
+    /* displays navigational background color */
+    background-color: #333;
+    padding: 10px 20px;
+}
+  
+.navbar ul {
+    /* added a margin and padding to the unordered list */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: large;
+}
+  
+.navbar ul li {
+    /* displays unordered list next to each other */
+    display: inline;
+    margin-right: 10px;
+}
+  
+.navbar ul li a {
+    /* displays the ancher tag as a particular color */
+    color: #fff;
+    text-decoration: none;
+}
+  
+.navbar ul li a:hover {
+    /* displays a hoovering affect to each ancher tag */
+    color: #ccc;
+}

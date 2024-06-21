@@ -7,27 +7,10 @@ ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    /* Added to bottom to get the items next to each other instead of above eachother */ 
-    /*display: flex;*/
-    
 }
+
 /* This spaces the index content apart*/ 
 li {
     margin-bottom: 2px;
 }
-
-
-
-
-/* this is to change the color of the text and ir removes the underline text*/
-/*nav a {
-    color: #fff;
-    text-decoration: none;
-}
-/* changes the a tag to hoover and get an underline affect to the color of...*/
-/*nav a:hover {
-    text-decoration: underline;
-    color: black;
-}
-
 

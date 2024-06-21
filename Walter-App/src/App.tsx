@@ -1,10 +1,9 @@
 // src/App.tsx
-
+import './App.css'
 import React from 'react';
+// ImageList not working as intended 
 import ImageListComponent from './ImageList';
 import Navigation from './Navitation';
-import Home from './Home';
-import { Contact } from './Contact';
 import { Route, Routes } from 'react-router-dom';
 
 
@@ -20,35 +19,3 @@ function App() {
 
 export default App;
 
-
-
-/*
-      <>
-        <div>
-          <Navigation/>
-        </div>
-
-
-        <div>
-          <Home/>
-        </div>
-
-        
-        <div>
-            <h1>Image Gallery</h1>
-            <ImageListComponent />
-        </div>
-
-        <div>
-          <Contact/>
-        </div>
-        
-        <Routes>
-          <Route path />
-          <Route/>
-        </Routes>
-
-
-
-      </>
-*/

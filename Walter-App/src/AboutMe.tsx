@@ -15,7 +15,7 @@ export default function AboutMe() {
             </p>
         </div>
         <div>
-            <img src={IMG_1775} width='450'alt="" />
+            <img src={IMG_1775} width='450'alt="HOW DID THIS HAPPEN!!?" />
         </div>
     </>
     )

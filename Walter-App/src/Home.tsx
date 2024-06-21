@@ -11,7 +11,7 @@ export default function Home() {
                 <p>Hello there, pawsome friends! 🐾 <br /> My name is Walter 🐶 I am a West Highland White Terrier or Westie for short. <br /> Join me on an exciting journey through the adventures of my life!</p>
             </div>
             <div>
-                <img src={IMG_3179} width='450'alt="" />
+                <img src={IMG_3179} width='450'alt="Felt cute, might delete later..." />
             </div>
         </>
 
